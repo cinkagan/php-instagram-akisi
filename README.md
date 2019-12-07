@@ -1,8 +1,8 @@
-#Php ile Instagram Akışı Gösterme
+# Php ile Instagram Akışı Gösterme
 
 **Öncelikle instagram akışı çekeceğiniz kullanının gizli kullanıcı olmadığına dikkat ediniz.**
 
-Access token almak için aşağıdaki linki kullanabilirsiniz.
+Access token almak için aşağıdaki linki kullanabilirsiniz. Link dek bazı kısımları kendinize göre değiştirmeniz gerekmektedir.
 ```
 YOUR_CLIENT_ID_HERE = Intagram developer dan alacağınız Client ID
 LINK = Intagram developer da client id almak için yazdığınız url
